@@ -1,4 +1,5 @@
 # VPN
 VPN Project using OpenVPN
-Made by :
-          @Axou89
+
+Authors :
+          [Axou89](https://github.com/Axou89)
